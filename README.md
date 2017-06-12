@@ -6,6 +6,9 @@ This is a small macOS app that are able to take in a long string, and converted 
 I always find myself in trouble to replace " into /" when I program in C/C++, and Swift 3,
 Although in Swift 4, I am able to use triple quote (""") just like in Python; but I still find this useful sometimes.
 
+## Installation
+Simply just download this repository and inside replacerApp, open replacer.app then the app will start running
+
 ## Details
 version: 1.0.0
 
