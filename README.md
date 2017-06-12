@@ -8,10 +8,23 @@ Although in Swift 4, I am able to use triple quote (""") just like in Python; bu
 
 ## Details
 version: 1.0.0
+
 created by: superoo7
+
 created on: 12th June 2017
+
 last update on: 12th June 2017
-license: MIT
+
+license: [MIT](LICENSE.txt)
+
+## Function
+* Able to convert (") into (\")
+* Able to copy the result to clipboard
+
+## What to do next?
+* Make better UI
+* Make better UX
+* Increase more function
 
 ## Preview
 ![preview app](Preview.png)
